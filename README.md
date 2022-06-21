@@ -6,7 +6,6 @@ I'm a frontend developer who do like building complex interfaces and constantly 
 
 &nbsp;
 &nbsp;
-&nbsp;
 
 ### Find me on 🌌
 ---
