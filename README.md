@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, I'm Clement 👋
 
-<!--
-**ClemCornet/ClemCornet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend developer based in Paris
 
-Here are some ideas to get you started:
+I'm a frontend developer who do like building complex interfaces and constantly testing new technologies and techniques. I enjoy working with include **VueJS/Nuxt, ReactJS, Jamstack (Strapi), GraphQL** and I'm a huge fan of **tailwindcss**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;
+&nbsp;
+&nbsp;
+
+### Find me on 🌌
+---
+[Linkedin](https://www.linkedin.com/in/clem-cornet)<br>
+[Twitter](https://twitter.com/ClemCornet)
+
+
