@@ -10,7 +10,6 @@ I'm a frontend developer who do like building complex interfaces and constantly 
 
 ### Find me on 🌌
 ---
-[Linkedin](https://www.linkedin.com/in/clem-cornet)<br>
-[Twitter](https://twitter.com/ClemCornet)
+[Linkedin](https://www.linkedin.com/in/clem-cornet) | [Twitter](https://twitter.com/ClemCornet)
 
 
